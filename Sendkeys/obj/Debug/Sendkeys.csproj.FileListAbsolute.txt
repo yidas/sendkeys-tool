@@ -1,0 +1,10 @@
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\bin\Debug\Sendkeys.exe
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\bin\Debug\Sendkeys.pdb
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.csprojAssemblyReference.cache
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.Form1.resources
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.Properties.Resources.resources
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.csproj.GenerateResource.cache
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.csproj.CoreCompileInputs.cache
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.exe
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\obj\Debug\Sendkeys.pdb
+C:\Users\Nick Tsai\source\repos\Sendkeys\Sendkeys\bin\Debug\Sendkeys.exe.config
